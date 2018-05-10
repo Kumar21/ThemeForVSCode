@@ -1,0 +1,22 @@
+{
+    "name": "QASTheme",
+    "displayName": "QASTheme",
+    "description": "QAS Theme for Visual code",
+    "version": "0.0.1",
+    "publisher": "kumar",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "QASTheme",
+                "uiTheme": "vs",
+                "path": "./themes/QASTheme-color-theme.json"
+            }
+        ]
+    }
+}
