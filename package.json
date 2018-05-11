@@ -1,7 +1,7 @@
 {
-    "name": "QASTheme",
-    "displayName": "QASTheme",
-    "description": "QAS Theme for Visual code",
+    "name": "SoothingGreen",
+    "displayName": "SoothingGreen",
+    "description": "Simple Green Theme for Visual Code",
     "version": "0.0.1",
     "publisher": "kumar",
     "engines": {
@@ -11,12 +11,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "QASTheme",
-                "uiTheme": "vs",
-                "path": "./themes/QASTheme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Soothing Green",
+            "uiTheme": "vs",
+            "path": "./themes/SoothingGreen-color-theme.json"
+        }]
     }
 }
