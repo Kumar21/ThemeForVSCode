@@ -1,8 +1,6 @@
-// ATTENTION - THIS DIRECTORY CONTAINS THIRD PARTY OPEN SOURCE MATERIALS:
-
 [{
-	"name": "ThemeForVSCode",
-	"version": "1.0.0",
-	"repositoryURL": "https://github.com/Kumar21/ThemeForVSCode.git",
-	"description": "This is Green coloured based Theme . Help taken from Visual Code Theme document"
+    "name": "ThemeForVSCode",
+    "version": "1.0.0",
+    "repositoryURL": "https://github.com/Kumar21/ThemeForVSCode.git",
+    "description": "This is Green coloured based Theme . Help taken from Visual Code Theme document"
 }]
