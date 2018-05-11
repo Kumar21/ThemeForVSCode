@@ -58,7 +58,7 @@ Launch *Quick Open*,
 
 ## Developer
 
-Kumar Shanu 🙏 
+Kumar Shanu 
 
 <a href="https://www.linkedin.com/in/kumar-shanu-7969a463/" target="_blank">linkedin : https://www.linkedin.com/in/kumar-shanu-7969a463/</a>
 
