@@ -1,4 +1,4 @@
-<p align="center"><img width="980px" src="https://i.imgur.com/jbxEx8q.png"></p>
+<p align="center"><img width="980px" src="./Images/SoothingG.png"></p>
 
 
 ### This is Light Soothing Green Theme for Visual Studio Code. You can help by reporting issues [here] (https://github.com/Kumar21/ThemeForVSCode/issues)

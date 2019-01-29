@@ -2,7 +2,7 @@
     "name": "SoothingGreen",
     "displayName": "SoothingGreen",
     "description": "Simple Green Theme for Visual Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "KumarShanu",
     "engines": {
         "vscode": "^1.23.0"
